@@ -1,0 +1,10 @@
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\bin\Debug\sevens.exe.config
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\bin\Debug\sevens.exe
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\bin\Debug\sevens.pdb
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.csprojAssemblyReference.cache
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.Form1.resources
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.Properties.Resources.resources
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.csproj.GenerateResource.cache
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.csproj.CoreCompileInputs.cache
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.exe
+C:\Users\1004w\OneDrive\桌面\C#\sevens\sevens\obj\Debug\sevens.pdb
